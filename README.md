@@ -1,6 +1,6 @@
 # Proyecto de Registro de Asistencia
 
-En este proyecto, se implementó una interfaz de registro de asistencia con capacidades avanzadas, como la actualización y el envío de la lista a una base de datos. Se diseñó la funcionalidad para gestionar integralmente los datos de la lista, permitiendo una administración eficaz. Además, la aplicación ofrece la posibilidad de exportar la lista a un archivo Excel.
+Este proyecto proporciona una solución para registrar la asistencia de los usuarios en eventos o actividades. Permite actualizar y enviar la lista de asistencia a una base de datos, así como exportar la lista a un archivo Excel para análisis posterior.
 
 ## Tecnologías Utilizadas
 
@@ -13,6 +13,8 @@ En este proyecto, se implementó una interfaz de registro de asistencia con capa
 - Actualización y envío de la lista a una base de datos.
 - Gestión integral de los datos de la lista.
 - Exportación de la lista a un archivo Excel.
+  
+![img-INTERFAZ](https://github.com/Adr1an01/Interfaz-asistencia/blob/main/img-INTERFAZ.jpg)
 
 ## Desarrollo
 

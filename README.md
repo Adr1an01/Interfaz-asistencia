@@ -20,6 +20,3 @@ Este proyecto proporciona una solución para registrar la asistencia de los usua
 
 El desarrollo de la interfaz de usuario se basó en Java Swing para proporcionar una experiencia visual amigable y atractiva. La conexión con la base de datos se logró mediante JDBC, garantizando una transmisión eficiente de datos y ejecución efectiva de consultas.
 
-## Contribuciones
-
-Contribuciones y sugerencias son bienvenidas. Si encuentras algún problema o tienes ideas para mejorar el proyecto, por favor no dude en comunicarmelo.
